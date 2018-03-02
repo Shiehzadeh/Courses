@@ -1,0 +1,6 @@
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\bin\Debug\Polymorphysm.exe.config
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\bin\Debug\Polymorphysm.exe
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\bin\Debug\Polymorphysm.pdb
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\obj\Debug\Polymorphysm.csprojResolveAssemblyReference.cache
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\obj\Debug\Polymorphysm.exe
+D:\friday class\visual-project\c#-class\5-04-12-1396\0-my-practise\Polymorphysm\Polymorphysm\obj\Debug\Polymorphysm.pdb
